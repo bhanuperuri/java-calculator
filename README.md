@@ -22,7 +22,7 @@ This is a simple Java command-line calculator application built as part of my Ja
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/your-bhanuperuri/calculator.git
+git clone https://github.com/bhanuperuri/calculator.git
 
 2. Open project in NetBeans or any Java IDE.
 
